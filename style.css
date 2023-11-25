@@ -10,13 +10,17 @@ h1, h2, h3, h4, h5{
     flex-shrink: 0;
     text-align: center;
 }
+h1{
+    font-style:italic;
+    font-size: 30px;
+}
 h6{
     font-size: 12px;
     margin: 0;
     text-align: center;
 }
 h4{
-    font-style: italic;
+    font-style: light;
 }
 header{
     padding: 0 2%;
